@@ -1,0 +1,8 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "type": "TRC20",
+  "decimals": 6,
+  "website": "https://tether.to",
+  "coingeckoId": "tether"
+}
